@@ -16,6 +16,6 @@ Email:
 
 -Mẹ : habogay@gmail.com
 
-Bài Làm : SavePrincessAnimation.exe
+Bài Làm : Trong phần Release, SavePrincessAnimation.exe
 
 P/S: Do em cải biến từ bài làm trước của em là cứu công chúa nên có tên hơi không phù hợp ạ
