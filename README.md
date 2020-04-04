@@ -4,10 +4,13 @@
 
 https://github.com/agrukuki/Project/releases
 
-Nhiệm vụ: về nhà ăn cơm.
+Nhiệm vụ: ship khẩu trang
 
-Bạn là một thằng lêu lổng nên đã đi chơi :((
+Bạn là shipper, một nghề khá quan trọng đặc biệt là trong mùa dịch này.
 
-Bạn sống trong ổ dịch nhưng bây giờ vì đi chơi nên bạn phải về nhà, xung quanh toàn là những người vô ý thức đi ngoà i đường. Trong tay bạn có 6 bản đồ, bạn cũng có thể đi đường vòng là ra ngoài bản đồ nhưng vì bạn đi ra ngoài nên bạn không biết đường, ngoài đấy mọi người ở trong nhà nên bạn không hỏi đường được nên một khi ra, trò chơi sẽ không chịu trách nhiệm và bạn sẽ mù đường theo đúng nghĩa.
+Hiện tại bạn đang có 6 order tương ứng với 6 màn của trò chơi.
 
-Không cần biết bạn làm kiểu gì, chỉ cần về nhà ăn cơm là được
+Bạn phải tránh những con virus corona.
+
+Không cần biết bạn làm gì, chỉ cần giao đồ cho khách là được!
+
